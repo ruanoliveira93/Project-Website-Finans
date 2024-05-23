@@ -1,0 +1,35 @@
+main i {
+    color: white;
+}
+
+#home a i {
+    color: black;
+}
+
+#home a:hover i {
+    color: white;
+}
+
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 518px;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a:hover {
+    border-bottom: 1px solid rgb(58, 128, 207);
+    line-height: 10px;
+}
+
+footer a i {
+    color: black;
+}
+footer a:hover i {
+    color: rgba(255, 255, 255, 0.5);
+}
